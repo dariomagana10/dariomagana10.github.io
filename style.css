@@ -28,6 +28,52 @@ fill: #d40e14;
 transition: 0.6s;
 cursor: pointer;
 }
+svg #il:hover { 
+  fill: #d40e14;
+  transition: 0.6s;
+  cursor: pointer;
+  }
+  svg #path3470:hover { 
+    fill: #d40e14;
+    transition: 0.6s;
+    cursor: pointer;
+    }
+    svg #ge:hover { 
+      fill: #d40e14;
+      transition: 0.6s;
+      cursor: pointer;
+      }
+svg #path3790:hover { 
+  fill: #d40e14;
+  transition: 0.6s;
+  cursor: pointer;
+  }
+  svg #path3898:hover { 
+    fill: #d40e14;
+    transition: 0.6s;
+    cursor: pointer;
+    }
+  svg #path4906:hover { 
+    fill: #d40e14;
+    transition: 0.6s;
+    cursor: pointer;
+    }
+
+svg #za:hover { 
+  fill: #d40e14;
+  transition: 0.6s;
+  cursor: pointer;
+  }
+svg #hu:hover { 
+  fill: #d40e14;
+  transition: 0.6s;
+  cursor: pointer;
+  }
+svg #cz:hover { 
+  fill: #d40e14;
+  transition: 0.6s;
+  cursor: pointer;
+  }
 svg #path5998:hover { 
 fill: #d40e14;
 transition: 0.6s;
